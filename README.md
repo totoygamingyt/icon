@@ -1,7 +1,7 @@
 # Main
 **YouTube Old Icon** - [link](https://raw.githubusercontent.com/totoygamingyt/icon/main/assets/YouTubeV1.png)
 
-**YouTube New Icon (v2)** - [link](https://raw.githubusercontent.com/totoygamingyt/icon/main/assets/YouTubeV2.png) > `changed the gradient background.`
+**YouTube New Icon (v2)** - [link](https://raw.githubusercontent.com/totoygamingyt/icon/main/assets/YouTubeV2.png) > `not implemented.`
 # Social Media
 **Pink Icon (v1)** - [link](https://raw.githubusercontent.com/totoygamingyt/icon/main/assets/PinkV1.png) > `mostly used for discord bots.`
 
