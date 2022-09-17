@@ -15,4 +15,4 @@
 # Other Image Size
 **512x512** - [folder link](https://github.com/totoygamingyt/icon/tree/main/assets/512x512)
 
-**1024x1024** - ~~folder  link~~
+**1024x1024** - [folder link](https://github.com/totoygamingyt/icon/tree/main/assets/1024x1024)
