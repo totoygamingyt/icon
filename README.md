@@ -2,12 +2,14 @@
 **YouTube Old Icon** - [link](https://raw.githubusercontent.com/totoygamingyt/icon/main/assets/YouTubeV1.png)
 
 **YouTube New Icon (v2)** - [link](https://raw.githubusercontent.com/totoygamingyt/icon/main/assets/YouTubeV2.png) > `Changed the Gradient Background.`
-# Social Media
+# Others
 **Pink Icon (v1)** - [link](https://raw.githubusercontent.com/totoygamingyt/icon/main/assets/PinkV1.png) > `Used as a Display Picture in TotoyGamingYT Bot &` [TotoyGamingYT 2 (Youtube)](https://www.youtube.com/channel/UCL3yHxS21aBEiLVAvtt_G_w)
 
 **Facebook Icon** - [link](https://raw.githubusercontent.com/totoygamingyt/icon/main/assets/Facebook.png) 
 
 **Business Email Icon** - [link](https://raw.githubusercontent.com/totoygamingyt/icon/main/assets/BusinessEmail.png) > `Used as a Display Picture for Business.TotoyGamingYT@gmail.com`
+
+**Fire Icon** - [link](https://raw.githubusercontent.com/totoygamingyt/icon/main/assets/FireV1.png) > `Future Projects :>`
 
 # Unused
 **Minecraft Icon** - [link](https://raw.githubusercontent.com/totoygamingyt/icon/main/assets/Minecraft.png) > `Minecraft Channel Discontinued, sadly.` 
