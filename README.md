@@ -1,3 +1,4 @@
+
 # Main
 **YouTube Old Icon** - [link](https://raw.githubusercontent.com/totoygamingyt/icon/main/assets/YouTubeV1.png)
 
@@ -13,8 +14,12 @@
 
 # Unused
 **Minecraft Icon** - [link](https://raw.githubusercontent.com/totoygamingyt/icon/main/assets/Minecraft.png) > `Minecraft Channel Discontinued, sadly.` 
+# Stickers/Emojis
+**Different Reactions** - [folder link](https://github.com/totoygamingyt/icon/tree/main/emoji-assets) > `Used for Discord Server Emoji, and YouTube Membership Emoji.`
 
-# Other Image Size
+**Different Colors of [hearts.png](https://github.com/totoygamingyt/icon/blob/main/emoji-assets/hearts.png)** - [folder link](https://github.com/totoygamingyt/icon/tree/main/emoji-assets/hearts-colored) > `Used for YouTube Membership Badges.`
+
+# Other Image Size (emojis doesnt included.)
 **512x512** - [folder link](https://github.com/totoygamingyt/icon/tree/main/assets/512x512)
 
 **1024x1024** - [folder link](https://github.com/totoygamingyt/icon/tree/main/assets/1024x1024)
