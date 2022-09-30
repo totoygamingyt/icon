@@ -12,6 +12,12 @@
 
 **Fire Icon** - [link](https://raw.githubusercontent.com/totoygamingyt/icon/main/assets/FireV1.png) > `Future Projects :>`
 
+**YouTube TL Icon (TGYTpTL)** - [link](https://raw.githubusercontent.com/totoygamingyt/icon/main/assets/YouTubeV1-TGYTpTL.png) > `Used as a Display Picture in TL(Tagalog) Channel, More Info about that Channel soon.`
+
+**No Ads Icon** - [link](https://raw.githubusercontent.com/totoygamingyt/icon/main/assets/NoAds.png) > `Used for ROBLOX Projects to comply with the ROBLOX TOS.`
+
+
+
 # Unused
 **Minecraft Icon** - [link](https://raw.githubusercontent.com/totoygamingyt/icon/main/assets/Minecraft.png) > `Minecraft Channel Discontinued, sadly.` 
 # Stickers/Emojis
